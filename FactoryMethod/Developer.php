@@ -10,5 +10,9 @@ class Developer implements Interviewer
     {
         echo 'Asking about design patterns!';
     }
+    public function doSmht()
+{
+    echo 'Do smth!';
+}
 
 }

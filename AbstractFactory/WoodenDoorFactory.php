@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: tim_get_me
- * Date: 14.02.2019
- * Time: 21:45
- */
+declare(strict_types=1);
 
 namespace AbstractFactory;
 

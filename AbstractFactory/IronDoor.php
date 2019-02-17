@@ -4,11 +4,11 @@ declare(strict_types=1);
 namespace AbstractFactory;
 
 
-class Carpenter implements DoorFittingExpert
+class IronDoor implements Door
 {
     public function getDescription()
     {
-        echo 'I can only fit wooden doors';
+        echo 'I am an iron door';
     }
 
 }

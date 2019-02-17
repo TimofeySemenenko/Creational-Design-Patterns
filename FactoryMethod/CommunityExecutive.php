@@ -10,5 +10,9 @@ class CommunityExecutive implements Interviewer
     {
         echo 'Asking about community building';
     }
+    public function doSmht()
+    {
+        // TODO: Implement doSmht() method.
+    }
 
 }

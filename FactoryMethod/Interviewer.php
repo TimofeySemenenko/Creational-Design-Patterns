@@ -7,4 +7,5 @@ namespace FactoryMethod;
 interface Interviewer
 {
     public function askQuestions();
+    public function doSmht();
 }

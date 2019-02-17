@@ -13,6 +13,7 @@ abstract class HiringManager
     {
         $interviewer = $this->makeInterviewer();
         $interviewer->askQuestions();
+        $interviewer->doSmht();
     }
 
 }
