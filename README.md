@@ -1,4 +1,4 @@
-## Generating patterns (for students)
+## Creational Design Patterns (for students)
 
 # Simple factory
 # Abstact factory
